@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="897af918-b143-41ce-8063-21bc71fd4a07" name="dev2.cryptovest" url="http://dev2.yarandin.com">
+        <fileTransfer host="dev2.yarandin.com" port="22" rootFolder="/var/www/crypto" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
